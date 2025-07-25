@@ -1,3 +1,4 @@
-Hi Hello Harshavardhan
+Hello Harshavardhan
 Testing SCM Cmds
 New to IT
+New DevopS
